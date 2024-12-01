@@ -1,0 +1,3 @@
+ ('Rahim', 'easinrahim10@gmail.com', 'RUET', 3.7, 920.0, 7.0, 1) 
+('', '', '', 0.0, 0.0, 0.0, 1) 
+('Pritthi', 'pritthiskr', 'RUET', 0.0, 0.0, 0.0, 0) 
